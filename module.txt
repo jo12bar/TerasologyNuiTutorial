@@ -1,0 +1,9 @@
+{
+    "id" : "TerasologyNuiTutorial",
+    "version" : "0.1.0-SNAPSHOT",
+    "author" : "",
+    "displayName" : "TerasologyNuiTutorial",
+    "description" : "",
+    "dependencies" : [],
+    "serverSideOnly" : false
+}
